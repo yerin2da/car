@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "https://yerin2da.github.io/car/static/css/main.ff9ba0a8.css",
-    "main.js": "https://yerin2da.github.io/car/static/js/main.5d89114d.js",
+    "main.js": "https://yerin2da.github.io/car/static/js/main.6ac9af2c.js",
     "index.html": "https://yerin2da.github.io/car/index.html",
     "main.ff9ba0a8.css.map": "https://yerin2da.github.io/car/static/css/main.ff9ba0a8.css.map",
-    "main.5d89114d.js.map": "https://yerin2da.github.io/car/static/js/main.5d89114d.js.map"
+    "main.6ac9af2c.js.map": "https://yerin2da.github.io/car/static/js/main.6ac9af2c.js.map"
   },
   "entrypoints": [
     "static/css/main.ff9ba0a8.css",
-    "static/js/main.5d89114d.js"
+    "static/js/main.6ac9af2c.js"
   ]
 }
