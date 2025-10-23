@@ -11,7 +11,6 @@ import {Bloom, ChromaticAberration, EffectComposer,} from "@react-three/postproc
 import { BlendFunction } from 'postprocessing';
 import FloatingGrid from "./FloatingGrid";
 
-
 function CarShow() {
 
     return (
