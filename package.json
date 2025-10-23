@@ -11,6 +11,7 @@
     "react-scripts": "5.0.1",
     "three": "^0.180.0"
   },
+  "homepage": "https://yerin2da.github.io/car",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
